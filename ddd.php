@@ -12,7 +12,7 @@ if($ddd == 61){
 
 else if($ddd == 11){
   
-     echo "São Paulo\n";
+     echo "Sao Paulo\n";
 
 }
 else if($ddd == 21){
